@@ -1,2 +1,2 @@
-# KMIL-101
+# KMAC-101
 # Kong Mesh Foundations
